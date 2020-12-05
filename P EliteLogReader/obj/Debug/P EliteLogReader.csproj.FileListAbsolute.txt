@@ -1,0 +1,20 @@
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\P EliteLogReader.exe.config
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\P EliteLogReader.exe
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\P EliteLogReader.pdb
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.csprojAssemblyReference.cache
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.csproj.CoreCompileInputs.cache
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.csproj.CopyComplete
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.exe
+C:\Users\Bear\Dropbox\Bjørn\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.pdb
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\P EliteLogReader.exe.config
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\P EliteLogReader.exe
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\P EliteLogReader.pdb
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.csprojAssemblyReference.cache
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.csproj.CoreCompileInputs.cache
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.csproj.CopyComplete
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.exe
+C:\Users\Bear\Dropbox\WSE\M Elite Dangerous\P EliteLogReader\P EliteLogReader\obj\Debug\P EliteLogReader.pdb
